@@ -1,0 +1,13 @@
+body{
+    font-family: 'Open Sans', sans-serif; 
+    background-color: orange;
+}
+h1{
+    color: RGB(255,000,000);
+}
+.p1{
+    color:RGB  (000,000,255);
+}
+.p2{
+    color:#00FF00 ;
+}
